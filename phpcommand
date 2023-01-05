@@ -1,0 +1,26 @@
+<?php  
+
+include("init.php");
+require("start.php");
+use App\Command\Kernel;
+
+if(count($argv)>1){
+    $data = "";
+
+    for($i=1; $i<count($argv); $i++){
+
+        $data = $data.' '.$argv[$i];
+    }
+    Kernel::execute($data);
+    // commande($data);
+}else{
+    print("type help for help");
+}
+
+
+
+
+
+
+
+?>
