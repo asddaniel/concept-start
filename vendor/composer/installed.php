@@ -5,7 +5,7 @@
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
-        'reference' => 'c0b1bead673125549f5c4ae710370b2fa39da994',
+        'reference' => '2a98d839dc6efc6b65d39fe1fc2fcd87cf2b59dc',
         'name' => '__root__',
         'dev' => true,
     ),
@@ -16,7 +16,7 @@
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
-            'reference' => 'c0b1bead673125549f5c4ae710370b2fa39da994',
+            'reference' => '2a98d839dc6efc6b65d39fe1fc2fcd87cf2b59dc',
             'dev_requirement' => false,
         ),
         'asddaniel/concept' => array(
