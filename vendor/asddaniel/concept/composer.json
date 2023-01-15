@@ -1,0 +1,22 @@
+{
+    "name": "asddaniel/concept",
+    "description": "package for conception without code writter",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "App\\": "App/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Daniel Assani",
+            "email": "devasddaniel@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "nette/php-generator": "4.0.5",
+        "nikic/php-parser": "^4.15.2"
+    }
+}
