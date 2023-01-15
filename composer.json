@@ -1,4 +1,14 @@
-{
+{"name": "asddaniel/conception",
+"description": "package for conception without code writter",
+"type": "library",
+"license": "MIT",
+"authors": [
+    {
+        "name": "Daniel Assani",
+        "email": "devasddaniel@gmail.com"
+    }
+],
+"minimum-stability": "dev",
     "require": {
         "asddaniel/concept": "^0.1.0"
     }
