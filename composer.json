@@ -9,6 +9,7 @@
     }
 ],
 "minimum-stability": "stable",
+"prefer-stable": true,
     "require": {
         "asddaniel/concept": "^0.1.0"
     }
