@@ -8,7 +8,7 @@
         "email": "devasddaniel@gmail.com"
     }
 ],
-"minimum-stability": "beta",
+"minimum-stability": "stable",
     "require": {
         "asddaniel/concept": "^0.1.0"
     }
