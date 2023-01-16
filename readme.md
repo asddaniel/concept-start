@@ -25,7 +25,7 @@ concept is based on the creation of application templates that can be generated 
 you must start by cloning the starter project on github, this project contains all the elements necessary to load and use the base library that will generate your application.  this starter project only contains the tools needed to generate the Laravel api application template
 the link for the repository is [here](https://github.com/asddaniel/concept-start.git)
 
-    composer create project asddaniel/conception app
+    composer create-project asddaniel/conception app
 this will create a new concept project in a directory "app". 
 
 
